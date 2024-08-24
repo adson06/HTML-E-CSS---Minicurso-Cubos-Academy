@@ -1,0 +1,34 @@
+Aula 01 - Introdução Html e CSS
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Introducao HTML E CSS</h1>
+    <h2>Cubos Academy</h2>
+    <h3>Henrique Adson</h3>
+    <p>Esse é o paragrafo do meu site</p>
+    
+</body>
+</html>
+
+style.css
+
+h1{
+    color: aquamarine;
+}
+
+h2{
+    font-size: 60px;
+}
+
+p{
+     background-color: blueviolet;
+}
+
+
